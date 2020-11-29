@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexplumb/material-ui-phone-number"
+    "url": "https://github.com/codeswyft/material-ui-phone-number"
   },
   "keywords": [
     "material",
@@ -21,9 +21,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexplumb/material-ui-phone-number/issues"
+    "url": "https://github.com/codeswyft/material-ui-phone-number/issues"
   },
-  "homepage": "https://github.com/alexplumb/material-ui-phone-number",
+  "homepage": "https://github.com/codeswyft/material-ui-phone-number",
   "devDependencies": {
     "@babel/core": "^7.5.4",
     "@babel/plugin-proposal-class-properties": "^7.5.0",
